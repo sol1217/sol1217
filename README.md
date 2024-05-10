@@ -2,14 +2,13 @@
 I am 👋, Sol Calderón 
 👩🏻‍💻A passionate frontend developer from Costa Rica.
 
-# Información de Contacto
+# Contact Information
+You can contact me through the following means:
 
-Puedes contactarme a través de los siguientes medios:
-
-- Teléfono: +506 6043-0566
-- Correo electrónico: solc0275@gmail.com
+- +506 6043-0566
+- solc0275@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sol-calderón-30aa7425a/)
 
-## Mi Curriculum
+## My Resume
 
-Puedes encontrar mi curriculum en formato HTML [aquí](/ruta/a/tu/resume.html).
+[aquí](/ruta/a/tu/resume.html).
