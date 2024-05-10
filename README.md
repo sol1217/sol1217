@@ -1,6 +1,5 @@
 # Hi there 👋
 I am, Sol Calderón 👩🏻‍💻
-
 A passionate frontend developer from Costa Rica.
 
 ## Contact Information
