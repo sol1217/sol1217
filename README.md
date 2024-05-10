@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am 👋, Sol Calderón 
+I am 👋, Sol Calderón ###
 👩🏻‍💻A passionate frontend developer from Costa Rica.
 
 Contact Information:
-
+###
 +506 6043-0566
 solc0275@gamil.com
 https://www.linkedin.com/in/sol-calderón-30aa7425a/
