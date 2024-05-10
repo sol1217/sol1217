@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am, Sol Calderón 👩🏻‍💻 
-A passionate frontend developer from Costa Rica.
+### A passionate frontend developer from Costa Rica.
 
-### Contact Information
+## Contact Information
 You can contact me through the following means:
 
 - 📲 +506 6043-0566
