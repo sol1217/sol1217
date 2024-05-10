@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋                                                                                                   ![Uploading Web-Developer-scaled.jpeg…]()
+
 I am, Sol Calderón 👩🏻‍💻
 
 A passionate frontend developer from Costa Rica.
