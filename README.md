@@ -1,4 +1,5 @@
-# Hi there 👋                                                                                                   ![Uploading Web-Developer-scaled.jpeg…]()
+# Hi there 👋                                                                                                 [experiencia-programacion-persona-que-trabaja-codigos-computadora-1024x683](https://github.com/sol1217/sol1217/assets/126707695/d457c5d5-48ed-4aa4-983c-517a57708120)
+
 
 I am, Sol Calderón 👩🏻‍💻
 
