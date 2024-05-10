@@ -4,6 +4,9 @@ I am, Sol Calderón 👩🏻‍💻
 
 A passionate frontend developer from Costa Rica.
 
+Languages and Tools:
+figma git java kotlin mysql spring swift
+
 ## Contact Information
 
 You can contact me through the following means:
