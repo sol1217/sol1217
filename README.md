@@ -1,6 +1,7 @@
 # Hi there 👋                                                                                                      
 
 I am, Sol Calderón 👩🏻‍💻
+
 A passionate Web Developer / Frontend Developer / Backend Developer from Costa Rica.
 
 <h3 align="left">Languages and Tools:</h3>
