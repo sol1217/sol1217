@@ -22,6 +22,4 @@ const contactInfo = {
 console.log(contactInfo);
 
 ```
-Resume:
-[SolCalderon.pdf](https://github.com/sol1217/sol1217/files/15279273/SolCalderon.pdf)
 
