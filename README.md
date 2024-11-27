@@ -2,7 +2,7 @@
 
 I am, Sol Calderón 👩🏻‍💻
 
-A passionate Web Developer / Frontend Developer / 
+A passionate Mobile Developer / Frontend Developer / 
 from Costa Rica.
 
 <h3 align="left">Languages and Tools:</h3>
